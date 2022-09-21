@@ -1,6 +1,6 @@
 import sqlite3
 
-#github link:
+#github link: https://github.com/kevinnamkung/kevin-ds2002
 
 #connection object
 conn = sqlite3.connect('orders.db')
